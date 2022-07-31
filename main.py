@@ -4,5 +4,5 @@ from datetime import datetime
 print(datetime.now())
 
 
-def power(a):
-    return a**a
+def power(a, b):
+    return a**b
