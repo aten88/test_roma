@@ -1,4 +1,4 @@
-def binary_search(list_search, item):
+def binary_search(list_search:list, item:int):
     low = 0
     high = len(list_search) - 1
 
