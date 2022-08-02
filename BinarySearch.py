@@ -17,4 +17,3 @@ def binary_search(list_search, item):
 my_list = [1,7,19,22,157,212,222]
 
 print(f'Необходимый эл-т под индексом: {binary_search(my_list, 222)}')
-#1
